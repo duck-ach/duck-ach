@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Github에 방문해주신것을 환영합니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 주니어 개발자 duck_ach입니다. </li>다양한 아이디어에 관심이 있으며, 직접 구현하는 것을 취미로 하고 있습니다. 🤗</div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 주니어 개발자 duck_ach입니다. 🤗</div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
